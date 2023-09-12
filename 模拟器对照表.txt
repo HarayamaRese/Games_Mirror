@@ -1,0 +1,53 @@
+Mupen64Plus-Next——N64
+Kronos——SS（SEGA Saturn）
+PCSX ReARMed——PS1
+Stella——Atari 2600
+Sameboy——GB、GBC
+mGBA——GBA
+Mesen——FC/NES
+Mesen S——SFC/SNES
+Genesis Plus GX——MD/SEGA Genesis
+Final Burn Neo——Arcade games（街机游戏）
+Picodrive——MD/SEGA Genesis
+NeoCD——NeoGeo CD
+bsnes——SFC/SNES
+Flycast——SEGA Dreamcast
+Nestopia——FC/NES
+Snes9x——SFC/SNES
+BlastEM——MD/SEGA Genesis
+DesmuME——NDS
+PPSSPP——PSP
+VICE——Commodore 64
+UAE——Amiga
+RACE——SNK NGP/NGPC
+Caprice32——Amstrad CPC
+gpSP——GBA
+ProSystem——Atari 7800
+Beetle PSX——PS1
+EasyRPG——RPG Maker
+Beetle PCE——PCE（PC Engine）
+Beetle Cygne——WS/WSC（Bandai Wonder Swan）
+Beetle VB——VB（Virtual Boy）
+Potator——Watara Supervision
+FCEUmm——FC/NES
+QuickNES——FC/NES
+SMS Plus GX——GG(Sega GameGear)
+VBA-M——GBA
+GW——Game&Watch
+TGB-Dual——GB、GBC
+vecx——Vectrex
+Beetle Saturn——SS（SEGA Saturn）
+Fuse——ZX Spectrum
+FreeChaF——Channel F
+Gambatte——GB/GBC
+FreeIntv——Intellivision
+CrocoDS——Amstrad CPC
+Gearboy——GB、GBC
+Gearsystem——SMS、GG、SG-1000
+TIC-80——TIC-80
+Handy——Atari Lynx
+BlueMSX——MSX、ColecoVision
+WASM-4——WebAssembly
+A800——Atari 5200
+PocketCDG——.cdg and .mp3 file Player （卡拉OK播放器）
+A5200——Atari 5200
